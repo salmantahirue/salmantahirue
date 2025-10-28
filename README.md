@@ -82,7 +82,7 @@ Beyond coding, I am driven by the impact of technology and the power of communit
 ## 🐍 Contribution Snake
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/salmantahirue/salmantahirue/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/salmantahirue/urban-tree-map/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
