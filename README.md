@@ -64,7 +64,7 @@ As **Team Lead** and **Senior Python Backend Developer**, I designed and archite
 
 </details>
 
-[**Code**](#) | [**Live Demo**](#)
+
 
 ---
 
@@ -92,7 +92,7 @@ Led the development of a robust Facebook Messenger automation system using Djang
 
 </details>
 
-[**Code**](#) | [**Live Demo**](#)
+
 
 ---
 
@@ -120,7 +120,7 @@ Developed a dual desktop application system (QRCode_App & MultiEtsyMate_APP) for
 
 </details>
 
-[**Code**](#) | [**Live Demo**](#)
+
 
 ---
 
@@ -148,7 +148,7 @@ Developed a sophisticated data pipeline connecting a Django server with a Python
 
 </details>
 
-[**Code**](#) | [**Live Demo**](#)
+
 
 ---
 
@@ -176,7 +176,7 @@ Developed an automated web scraping solution to collect comprehensive product an
 
 </details>
 
-[**Code**](#) | [**Live Demo**](#)
+
 
 ---
 
