@@ -209,28 +209,6 @@ Beyond coding, I am driven by the impact of technology and the power of communit
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=salmantahirue&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=salmantahirue&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  </picture>
-
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=salmantahirue&theme=radical&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=salmantahirue&theme=default&hide_border=true" height="165"/>
-  </picture>
-
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=salmantahirue&layout=compact&theme=radical&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmantahirue&layout=compact&theme=default&hide_border=true" height="150"/>
-  </picture>
-</p>
-
----
-
 ## Connect With Me
 
 <div align="center">
